@@ -16,3 +16,4 @@ vendor/
 .env
 .idea/
 Gopkg.lock
+Notes.txt
